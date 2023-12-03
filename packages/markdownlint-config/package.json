@@ -1,6 +1,6 @@
 {
   "name": "@waldronmatt/markdownlint-config",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "description": "A shareable markdownlint configuration for projects.",
   "main": "index.json",
   "files": [
@@ -32,6 +32,6 @@
     "markdownlint": ">= 0"
   },
   "dependencies": {
-    "markdownlint-cli": "^0.33.0"
+    "markdownlint-cli": "^0.37.0"
   }
 }

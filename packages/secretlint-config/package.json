@@ -1,6 +1,6 @@
 {
   "name": "@waldronmatt/secretlint-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A shareable secretlint configuration for projects.",
   "main": "index.json",
   "files": [
@@ -32,6 +32,6 @@
     "secretlint": ">= 5"
   },
   "dependencies": {
-    "@secretlint/secretlint-rule-preset-recommend": "^5.2.4"
+    "@secretlint/secretlint-rule-preset-recommend": "^6.2.0"
   }
 }

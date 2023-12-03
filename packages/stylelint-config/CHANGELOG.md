@@ -3,6 +3,36 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.18](https://github.com/waldronmatt/shareable-configs/compare/@waldronmatt/stylelint-config@1.2.17...@waldronmatt/stylelint-config@1.2.18) (2023-05-02)
+
+**Note:** Version bump only for package @waldronmatt/stylelint-config
+
+## [1.2.17](https://github.com/waldronmatt/shareable-configs/compare/@waldronmatt/stylelint-config@1.2.16...@waldronmatt/stylelint-config@1.2.17) (2023-05-02)
+
+**Note:** Version bump only for package @waldronmatt/stylelint-config
+
+## [1.2.16](https://github.com/waldronmatt/shareable-configs/compare/@waldronmatt/stylelint-config@1.2.15...@waldronmatt/stylelint-config@1.2.16) (2023-04-09)
+
+### Bug Fixes
+
+- **package.json:** upgrade standard-scss to fix stuck mr and upgrade stylelint peer deep ([2e2ebca](https://github.com/waldronmatt/shareable-configs/commit/2e2ebcad330436c676cf349886fea350f3043f8d))
+
+## [1.2.15](https://github.com/waldronmatt/shareable-configs/compare/@waldronmatt/stylelint-config@1.2.14...@waldronmatt/stylelint-config@1.2.15) (2023-04-09)
+
+**Note:** Version bump only for package @waldronmatt/stylelint-config
+
+## [1.2.14](https://github.com/waldronmatt/shareable-configs/compare/@waldronmatt/stylelint-config@1.2.13...@waldronmatt/stylelint-config@1.2.14) (2023-04-09)
+
+**Note:** Version bump only for package @waldronmatt/stylelint-config
+
+## [1.2.13](https://github.com/waldronmatt/shareable-configs/compare/@waldronmatt/stylelint-config@1.2.12...@waldronmatt/stylelint-config@1.2.13) (2023-02-10)
+
+**Note:** Version bump only for package @waldronmatt/stylelint-config
+
+## [1.2.12](https://github.com/waldronmatt/shareable-configs/compare/@waldronmatt/stylelint-config@1.2.11...@waldronmatt/stylelint-config@1.2.12) (2023-02-10)
+
+**Note:** Version bump only for package @waldronmatt/stylelint-config
+
 ## [1.2.11](https://github.com/waldronmatt/shareable-configs/compare/@waldronmatt/stylelint-config@1.2.10...@waldronmatt/stylelint-config@1.2.11) (2022-11-25)
 
 ### Bug Fixes

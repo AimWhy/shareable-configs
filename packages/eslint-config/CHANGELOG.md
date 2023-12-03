@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.5.16](https://github.com/waldronmatt/shareable-configs/compare/@waldronmatt/eslint-config@1.5.15...@waldronmatt/eslint-config@1.5.16) (2023-11-03)
+
+**Note:** Version bump only for package @waldronmatt/eslint-config
+
+## [1.5.15](https://github.com/waldronmatt/shareable-configs/compare/@waldronmatt/eslint-config@1.5.14...@waldronmatt/eslint-config@1.5.15) (2023-04-09)
+
+**Note:** Version bump only for package @waldronmatt/eslint-config
+
+## [1.5.14](https://github.com/waldronmatt/shareable-configs/compare/@waldronmatt/eslint-config@1.5.13...@waldronmatt/eslint-config@1.5.14) (2023-04-09)
+
+**Note:** Version bump only for package @waldronmatt/eslint-config
+
+## [1.5.13](https://github.com/waldronmatt/shareable-configs/compare/@waldronmatt/eslint-config@1.5.12...@waldronmatt/eslint-config@1.5.13) (2023-02-10)
+
+**Note:** Version bump only for package @waldronmatt/eslint-config
+
+## [1.5.12](https://github.com/waldronmatt/shareable-configs/compare/@waldronmatt/eslint-config@1.5.11...@waldronmatt/eslint-config@1.5.12) (2023-02-10)
+
+**Note:** Version bump only for package @waldronmatt/eslint-config
+
 ## [1.5.11](https://github.com/waldronmatt/shareable-configs/compare/@waldronmatt/eslint-config@1.5.10...@waldronmatt/eslint-config@1.5.11) (2022-11-25)
 
 ### Bug Fixes
